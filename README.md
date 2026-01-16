@@ -12,3 +12,9 @@ pytailwindcss==0.3.0
 reportlab==4.4.7
 sqlparse==0.5.5
 tzdata==2025.3
+
+
+
+admin:
+Username: renu
+Password: admin123
